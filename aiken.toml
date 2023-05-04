@@ -1,0 +1,14 @@
+name = "aiken-lang/cip68minter"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'aiken-lang/cip68minter'"
+
+[repository]
+user = "aiken-lang"
+project = "cip68minter"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "main"
+source = "github"
